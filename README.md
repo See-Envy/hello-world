@@ -1,3 +1,3 @@
 # hello-world
 
-I will to create life from nothing
+I will create life from nothing
